@@ -162,13 +162,16 @@ if "open_project" not in st.session_state:
     st.session_state.open_project = None
 
 # ── TOP BAR ───────────────────────────────────────────────────────────────────
+profile_loc = PROFILE.get('location', 'Sheffield, UK')
+profile_phone = PROFILE.get('phone', '+44 7587 975094')
+
 st.markdown(f"""
 <div class="topbar">
   <div class="topbar-left">
     <div class="topbar-avatar">👨‍💻</div>
     <div>
       <div class="topbar-name">{PROFILE['name']}</div>
-      <div class="topbar-sub">Data Engineer · {PROFILE['location']} · {PROFILE['phone']}</div>
+      <div class="topbar-sub">Data Engineer & Data Analyst · {profile_loc} · {profile_phone}</div>
     </div>
   </div>
   <span class="topbar-badge">✅ &nbsp;Open to Work — No Sponsorship Required</span>
