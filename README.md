@@ -7,7 +7,7 @@ A production-grade, interactive portfolio ecosystem built using **Streamlit** an
 ---
 
 ## 🎯 Profile Executive Summary
-* **Name:** Anudeep Burra
+* **Name:** Anudeep 
 * **Target Roles:** Junior Data Engineer | Junior Data Analyst | Graduate Software Engineer
 * **Location:** Sheffield, UK (Eligible to start immediately — **UK Graduate Route Visa**, No Sponsorship Required)
 * **Core Stack:** Python, SQL, PostgreSQL, Pandas, SQLAlchemy, AWS (EC2, CloudWatch, SNS, boto3), Streamlit, Selenium, pytest
