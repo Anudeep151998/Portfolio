@@ -2,7 +2,7 @@
 
 A production-grade, interactive portfolio ecosystem built using **Streamlit** and styled with custom CSS to showcase end-to-end data pipelines, analytics frameworks, and cloud infrastructure monitoring systems. 
 
-**🔗 Live Portfolio Link:** [Replace with your live Streamlit URL once deployed]
+**🔗 Live Portfolio Link:** [https://portfolioanu.streamlit.app/]
 
 ---
 
